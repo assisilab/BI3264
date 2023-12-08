@@ -1,4 +1,4 @@
-# Mathematical and Computational Biology (BI3264)
+# Welcome to Mathematical and Computational Biology (BI3264)
 
 The goal of this course is to analyze and simulate mathematical and computational models of biological systems. Classical examples will be drawn from the literature that best illustrate the seamless integration of mathematics and biology, such as modeling in neuroscience (the classification of spiking activity based on different bifurcation scenarios), enzyme kinetics (slow-fast analysis and the Michaelis-Menten equations), pattern formation in development and others.
 
