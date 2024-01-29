@@ -1,6 +1,6 @@
 # Introduction to mathematical modeling in biology
 
-What is a model? 
+## What is a model? 
 
 Models, are caricatures of reality. Representations of real-world phenomena that amplify some characteristics while diminishing others. We are going to be interested in models that exhibit changes in time (hence “dynamic model”) and over space.  Our caricatures, or models, will be developed using the language of mathematics and computation. We will look at different models in Biology that have gained acceptance in the community. You could think of it as a sort of apprenticeship, where you get to hang out with some of the master “craftspeople” and learn the trade of modeling.  
 
@@ -15,6 +15,6 @@ Take, for example, host-parasite interactions.
 
 It is vital to incorporate the effects of the parasite on host physiology. Important here is the host’s immune system. But immunology is in itself a vast and highly complicated subject whose analysis requires the incorporation of events from levels ranging from molecular to cellular to whole organism—on time scales ranging from milliseconds to months. Also important is coevolution of host and parasite, over millions of years. In spite of such complexity, this book aims to illustrate how modeling can be useful. The first step is to start with the simplest model that can cast some light on the subjects under investigation.  
 
-
+# Table of contents
 ```{tableofcontents}
 ```
